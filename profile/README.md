@@ -1,7 +1,7 @@
 # :cookie: Biscurd
 We are trying to create a free, open-source, decentralized discord alternative.
 
-Unlike Discord, we will never lock most of our features behind a paywall. Even if we do, the source code is widely available and can be modified easily to fix the problem.
+Unlike Discord, we will never lock most of our features behind a paywall. Even if we do, the source code is widely available and can be modified easily to fix the problem. :shipit:
 
 We run on donations. If you enjoy our services, please consider giving us a small [donation](#donation) so we can upgrade and remove the limitations for you guys. Thanks in advance :pray:
 
