@@ -10,13 +10,13 @@ The name combines the word biscuit + Discord, which becomes biscurd.
 Why biscuit? Because biscuits are delicious.
 
 # :book: How can I learn more?
-How to get started?
-The Terms of Service: 
-Our glossary: 
-Our limitations: 
-The API docs: 
-Source code of our app:
-Source code of our Database: 
+- How to get started? https://github.com/about/getting-started
+- The Terms of Service: https://github.com/about/ToS
+- Our glossary: https://github.com/about/our-vocabulary
+- Our limitations: https://github.com/about/our-limitations 
+- The API docs: https://github.com/biscurd/api-docs
+- Source code of our app: https://github.com/biscurd/biscurd-app
+- Source code of our Database: https://github.com/biscurd/biscurd-db
 
 # :adhesive_bandage: Donation
 we run on donations. If you enjoy our services, please consider giving us a small (donation)[#donation] so we can upgrade and remove the limitations for you guys.
