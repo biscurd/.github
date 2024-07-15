@@ -3,7 +3,7 @@ We are trying to create a free, open-source, decentralized discord alternative.
 
 Unlike Discord, we will never lock most of our features behind a paywall. Even if we do, the source code is widely available and can be modified easily to fix the problem.
 
-We run on donations. If you enjoy our services, please consider giving us a small [donation](#donation) so we can upgrade and remove the limitations for you guys.
+We run on donations. If you enjoy our services, please consider giving us a small [donation](#donation) so we can upgrade and remove the limitations for you guys. Thanks in advance :prey:
 
 # :abc: Why the name?
 The name combines the word biscuit + Discord, which becomes biscurd.
@@ -19,10 +19,6 @@ Why biscuit? Because biscuits are delicious.
 - Source code of our Database: https://github.com/biscurd/biscurd-db
 
 # :adhesive_bandage: Donation
-<img align="left" src="https://cdn.discordapp.com/attachments/976859132827172914/1262402025656815617/image.png">
-
----
-
 we run on donations. If you enjoy our services, please consider giving us a small (donation)[#donation] so we can upgrade and remove the limitations for you guys.
 
 You can view the wallets below:
