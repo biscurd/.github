@@ -1,15 +1,15 @@
-# Biscurd
+# :cookie: Biscurd
 We are trying to create a free, open-source, decentralized discord alternative.
 
 Unlike Discord, we will never lock most of our features behind a paywall. Even if we do, the source code is widely available and can be modified easily to fix the problem.
 
 We run on donations. If you enjoy our services, please consider giving us a small [donation](#donation) so we can upgrade and remove the limitations for you guys.
 
-# Why the name?
+# :abc: Why the name?
 The name combines the word biscuit + Discord, which becomes biscurd.
 Why biscuit? Because biscuits are delicious.
 
-# How can I learn more?
+# :book: How can I learn more?
 How to get started?
 The Terms of Service: 
 Our glossary: 
