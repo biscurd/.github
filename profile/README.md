@@ -18,7 +18,7 @@ The API docs:
 Source code of our app:
 Source code of our Database: 
 
-# Donation
+# :adhesive_bandage: Donation
 we run on donations. If you enjoy our services, please consider giving us a small (donation)[#donation] so we can upgrade and remove the limitations for you guys.
 
 You can view the wallets below:
