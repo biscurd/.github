@@ -19,8 +19,10 @@ Why biscuit? Because biscuits are delicious.
 - Source code of our Database: https://github.com/biscurd/biscurd-db
 
 # :adhesive_bandage: Donation
-<img align="left" width="500" height="500" src="https://cdn.discordapp.com/attachments/976859132827172914/1262402025656815617/image.png">
+<img align="left" src="https://cdn.discordapp.com/attachments/976859132827172914/1262402025656815617/image.png">
+
 ---
+
 we run on donations. If you enjoy our services, please consider giving us a small (donation)[#donation] so we can upgrade and remove the limitations for you guys.
 
 You can view the wallets below:
